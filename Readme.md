@@ -1,8 +1,8 @@
-## Quiniela_DB
+## Contenedor Servidor SQL
 
 ### Construccion
 
-Usa Docker desktop para construir el contenedor que tendra la BD QUINIELA
+Usa Docker desktop para construir el contenedor de SQL Server que tendra la base de datos, por ejemplo: QUINIELA
 
 Una vez que el contenedor esta corriendo
 
